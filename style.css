@@ -1,0 +1,272 @@
+.containerA {
+    background-color: gainsboro;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 9rem;
+}
+
+.img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.container2 {
+    display: flex;
+    gap: 20px;
+}
+
+.text {
+    font-weight: bolder;
+    color: blue;
+}
+
+.box {
+    background-color: unset;
+    height: 1.8rem;
+    width: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box:hover {
+    border: 3px solid blue;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.box1 {
+    background-color: blue;
+    color: white;
+    height: 2rem;
+    border-radius: 5px;
+    width: 11rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bolder;
+}
+
+.icon {
+    color: blue;
+}
+
+.boxb {
+    height: 32rem;
+    width: 20rem;
+    background-color:unset;
+}
+
+.boxc {
+    height: 69.5rem;
+    width: 55rem;
+    background-color:unset;
+}
+
+.containerB {
+    display: flex;
+    justify-content: center;
+}
+
+.library {
+    font-size: 3.5rem;
+
+}
+
+.newly {
+    position: relative;
+    bottom: 2rem;
+    font-size: 1.5rem;
+    color: black;
+}
+
+.boxE {
+    margin-left: 49rem;
+    bottom: 7rem;
+    position: relative;
+    font-weight: bold;
+}
+
+.boxF {
+    height: 13rem;
+    width: 16rem;
+    background-color: unset;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.containerC {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    position: relative;
+    bottom: 3rem;
+    gap: 40px;
+}
+
+.onepicture {
+    height: 40px;
+    width: 40px;
+}
+
+.boxG {
+    margin-top: 27px;
+    margin-left: 27px;
+}
+
+.inclusive {
+    position: relative;
+    bottom: 20px;
+    font-weight: bold;
+}
+
+.RESOURCES {
+    position: relative;
+    bottom: 7px;
+    color: blue;
+    font-weight: bold;
+}
+
+.containerz {
+    position: relative;
+    bottom: 35px;
+}
+
+.box21 {
+    width: 16rem;
+    height: 20rem;
+    background-color:gainsboro;
+    position: relative;
+    bottom: 52px;
+    border-radius: 10px;
+}
+
+.containerY {
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+}
+
+.Disability {
+    margin-top: 35px;
+    margin-left: 35px;
+}
+.SearchL{
+    font-size: 19px;
+    margin-top: 60px;
+}
+.input{
+    padding: 14px;
+    width: 14rem;
+    border-radius: 6px;
+    border: 2px solid rgb(27, 3, 99);
+    position: relative;
+    bottom: 8px;
+}
+.icon2{
+    position: relative;
+    right: 16rem;
+    font-size: 23px;
+    color:rgb(27, 3, 99);
+}
+.Home{
+    font-size: 19px;
+    margin-left: 10px;
+}
+.Home1{
+    font-size: 19px;
+    margin-left: 10px;  
+    color: blue;
+}
+.Categories{
+    line-height: 48px;
+}
+.Categories:hover{
+    color: blue;
+    cursor: pointer;
+}
+.icon3{
+    margin-left:8rem;
+    margin-top: 15px;
+    position: absolute;
+}
+.boxwer{
+    height: 12rem;
+    width: 16rem;
+    background-color: gainsboro;
+    border-radius: 10px;
+    
+}
+.Contribute{
+    padding-top: 15px;
+    padding-left: 24px;
+}
+.resources{
+    padding-left:24px ;
+    position: relative;
+    bottom: 10px;
+}
+.btn{
+    padding: 12px 40px;
+    margin-left: 24px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+}
+.container777{
+    height: 64rem;
+    background-color: black;
+    margin-top: 8rem;
+    
+}
+.box111{
+    height: 22rem;
+    width: 16rem;
+    background-color: unset;
+    
+}
+.usecase{
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 40px;
+    color: white;
+}
+.container232{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 7rem;
+}
+.container231{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 7rem;
+    padding-right: 16rem;
+    position: relative;
+    bottom: 4rem;
+}
+.icon5{
+    font-size: 30px;
+    color: white;
+    
+}
+.container120{
+    display: flex;
+    justify-content: center;
+    gap: 25rem;
+}
+.remotely{
+    font-size: 20px;
+    font-weight: bold;
+    color: yellow;
+}
